@@ -18,12 +18,16 @@ My CV can be found at [here](https://feicao1995.github.io/files/CV_FeiCao.pdf)
 
 Publications 
 ======
-+ K-averaging agent-based model: propagation of chaos and convergence to equilibrium
-+ Asymptotic flocking for the three-zone model
++ Asymptotic flocking for the three-zone model, 2020
++ K-averaging agent-based model: propagation of chaos and convergence to equilibrium, 2021
 
 Pre-prints
 ======
-+ Derivation of wealth distributions from biased exchange of money
++ Derivation of wealth distributions from biased exchange of money, 2021
++ Entropy dissipation and propagation of chaos for the uniform reshuffling model, 2021
++ Explicit decay rate for the Gini index in the repeated averaging model, 2021
++ From interacting agents to Boltzmann-Gibbs distribution of money, 2022
++ Uncovering a two-phase dynamics from a dollar exchange model with bank and debt, 2022
 
 Teaching
 ======
