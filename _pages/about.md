@@ -31,7 +31,8 @@ Pre-prints
 
 Teaching
 ======
-+ MATH 132 Calculus II (Fall 2022)
++ MAT 171 Precalculus (Fall 2019) at Arizona State University
++ MATH 132 Calculus II (Fall 2022) at University of Massachusetts Amherst
 
 
 
