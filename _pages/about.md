@@ -13,7 +13,8 @@ Hobbies: Naruto/Boruto, Detective Conan, NBA, Yu-Gi-Oh! (if you like playing Yu-
 Email: fcao@umass.edu. 
 I am glad to discuss mathematics and potential research collaboration possibilities with you via email. 
 I am interested in partial differential equations, stochastic processes, interacting particle systems, and theoretical machine learning. 
-My Ph.D advisor is [Sebastien Motsch](https://scholar.google.com/citations?user=OY7cVvgAAAAJ&hl=en).
+My Ph.D advisor is [Sebastien Motsch](https://scholar.google.com/citations?user=OY7cVvgAAAAJ&hl=en). 
+My CV can be found at [here](https://feicao1995.github.io/files/CV_FeiCao.pdf)
 
 Publications 
 ======
@@ -27,4 +28,6 @@ Pre-prints
 Teaching
 ======
 + MATH 132 Calculus II (Fall 2022)
+
+
 
