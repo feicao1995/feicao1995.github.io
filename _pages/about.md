@@ -14,7 +14,7 @@ Email: fcao@umass.edu.
 I am glad to discuss mathematics and potential research collaboration possibilities with you via email. 
 I am interested in partial differential equations, stochastic processes, interacting particle systems, and theoretical machine learning. 
 My Ph.D advisor is [Sebastien Motsch](https://scholar.google.com/citations?user=OY7cVvgAAAAJ&hl=en). 
-My CV can be found at [here](https://feicao1995.github.io/files/CV_FeiCao.pdf), one of my good friend is Xiaoqian Gong.
+My CV can be found at [here](https://feicao1995.github.io/files/CV_FeiCao.pdf)
 
 Publications 
 ======
