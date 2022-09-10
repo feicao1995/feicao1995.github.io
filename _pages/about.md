@@ -36,7 +36,7 @@ Teaching
 
 Miscellaneous
 ======
-+ **Visiting Scholar** in the Department of Mathematics at The Pennsylvania State University (02/02/2022 - 02/18/2022), hosted by Professor Pierre-Emmanuel Jabin.
++ **Visiting Scholar** in the Department of Mathematics at the Pennsylvania State University (02/02/2022 - 02/18/2022), hosted by Professor Pierre-Emmanuel Jabin.
 + **Graduate Student Research Award** (2022) awarded by School of Mathematical and Statistical Sciences at Arizona State University
 
 
