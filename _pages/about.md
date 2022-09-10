@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Currently a beginning Visiting Assistant Professor at the University of Massachusetts Amherst. 
-Hobbies: Naruto/Boruto, Detective Conan, NBA, Yu-Gi-Oh! (a trading card game, I am a professional Yu-Gi-Oh! player by the way), etc. 
+Hobbies: Naruto/Boruto, Detective Conan, NBA, Yu-Gi-Oh! (a trading card game, **I am a professional Yu-Gi-Oh! player by the way**), etc. 
 Email: fcao@umass.edu. 
 I am glad to discuss mathematics and potential research collaboration possibilities with you via email. 
 I am interested in partial differential equations, stochastic processes, interacting particle systems, and theoretical machine learning. 
@@ -34,5 +34,9 @@ Teaching
 + MAT 171 Precalculus (Fall 2019) at Arizona State University
 + MATH 132 Calculus II (Fall 2022) at University of Massachusetts Amherst
 
+Miscellaneous
+======
++ **Visiting Scholar** in the Department of Mathematics at The Pennsylvania State University (02/02/2022 - 02/18/2022), hosted by Professor Pierre-Emmanuel Jabin.
++ **Graduate Student Research Award** (2022) awarded by School of Mathematical and Statistical Sciences at Arizona State University
 
 
