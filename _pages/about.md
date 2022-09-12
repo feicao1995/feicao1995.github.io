@@ -20,12 +20,12 @@ Publications
 ======
 + Asymptotic flocking for the three-zone model; Fei Cao, Sebastien Motsch, Alexander Reamy, Ryan Theisen; 2020
 + K-averaging agent-based model: propagation of chaos and convergence to equilibrium; Fei Cao; 2021
++ Explicit decay rate for the Gini index in the repeated averaging model; Fei Cao; 2022
 
 Pre-prints
 ======
 + Derivation of wealth distributions from biased exchange of money; Fei Cao, Sebastien Motsch; 2021
 + Entropy dissipation and propagation of chaos for the uniform reshuffling model; Fei Cao, Pierre-Emmanuel Jabin, Sebastien Motsch; 2021
-+ Explicit decay rate for the Gini index in the repeated averaging model; Fei Cao; 2021
 + From interacting agents to Boltzmann-Gibbs distribution of money; Fei Cao, Pierre-Emmanuel Jabin; 2022
 + Uncovering a two-phase dynamics from a dollar exchange model with bank and debt; Fei Cao, Sebastien Motsch; 2022
 
