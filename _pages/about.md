@@ -31,7 +31,7 @@ Pre-prints
 ======
 + From interacting agents to Boltzmann-Gibbs distribution of money; In revision at Nonlinearity, 2024; Fei Cao, Pierre-Emmanuel Jabin.
 + A biased dollar exchange model involving bank and debt with discontinuous equilibrium; Submitted, 2023; Fei Cao, Stephanie Reed.
-+ On the equivalence between Fourier-based and Wasserstein distances for probability measures on N; Submitted, 2024; Fei Cao, Xiaoqian Gong.
++ On the equivalence between Fourier-based and Wasserstein distances for probability measures on $\mathbb{N}$; Submitted, 2024; Fei Cao, Xiaoqian Gong.
 + Sticky dispersion on the complete graph: a kinetic approach; Submitted, 2024; Fei Cao, Sebastien Motsch.
 + Quantitative convergence guarantees for the mean-field dispersion process; Submitted, 2024; Fei Cao, Jincheng Yang.
   
