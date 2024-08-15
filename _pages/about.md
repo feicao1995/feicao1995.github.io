@@ -27,7 +27,7 @@ Publications
 + Uniform propagation of chaos for a dollar exchange econophysics model; European Journal of Applied Mathematics, 1-13, 2024; Fei Cao, Roberto Cortez.
 + From the binomial reshuffling model to Poisson distribution of money; Networks and Heterogeneous Media, 19(1):24-43, 2024; Fei Cao, Nicholas F. Marshall.
 
-Pre-prints
+Submitted papers
 ======
 + From interacting agents to Boltzmann-Gibbs distribution of money; In revision at Nonlinearity, 2024; Fei Cao, Pierre-Emmanuel Jabin.
 + A biased dollar exchange model involving bank and debt with discontinuous equilibrium; Submitted, 2023; Fei Cao, Stephanie Reed.
