@@ -26,10 +26,10 @@ Publications
 + Uncovering a two-phase dynamics from a dollar exchange model with bank and debt; SIAM Journal on Applied Mathematics, 83(5):1872-1891, 2023; Fei Cao, Sebastien Motsch.
 + Uniform propagation of chaos for a dollar exchange econophysics model; European Journal of Applied Mathematics, 1-13, 2024; Fei Cao, Roberto Cortez.
 + From the binomial reshuffling model to Poisson distribution of money; Networks and Heterogeneous Media, 19(1):24-43, 2024; Fei Cao, Nicholas F. Marshall.
++ From interacting agents to Boltzmann-Gibbs distribution of money; Nonlinearity, 37(12):125020, 2024; Fei Cao, Pierre-Emmanuel Jabin.
 
 Submitted papers
 ======
-+ From interacting agents to Boltzmann-Gibbs distribution of money; In revision at Nonlinearity, 2024; Fei Cao, Pierre-Emmanuel Jabin.
 + A biased dollar exchange model involving bank and debt with discontinuous equilibrium; Submitted, 2023; Fei Cao, Stephanie Reed.
 + On the equivalence between Fourier-based and Wasserstein distances for probability measures on N; Submitted, 2024; Fei Cao, Xiaoqian Gong.
 + Sticky dispersion on the complete graph: a kinetic approach; Submitted, 2024; Fei Cao, Sebastien Motsch.
@@ -41,7 +41,7 @@ Teaching
 ======
 + MAT 171 Precalculus (Fall 2019) at Arizona State University
 + MATH 132 Calculus II (Fall 2022,2024 and Spring 2023) at University of Massachusetts Amherst
-+ MATH 331 Ordinary Differential Equations (Fall 2023 and Spring 2024) at University of Massachusetts Amherst
++ MATH 331 Ordinary Differential Equations (Fall 2023 and Spring 2024,2025) at University of Massachusetts Amherst
 + MATH 131 Calculus I (Fall 2024) at University of Massachusetts Amherst
 
 Miscellaneous
