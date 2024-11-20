@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently an **Visiting Assistant Professor** at the University of Massachusetts Amherst. I am now on the job market and I am actively looking for a tenure-track position (in applied mathematics and/or related areas).
+Currently an **Visiting Assistant Professor** at the University of Massachusetts Amherst. I am now on the job market and **I am actively looking for a tenure-track position (in applied mathematics and/or related areas) starting at Fall 2025**.
 Hobbies: Naruto/Boruto, Detective Conan, NBA, Yu-Gi-Oh! (a trading card game, I am a semi-professional Yu-Gi-Oh! player by the way), etc. 
 Email: fcao@umass.edu. 
 I am glad to discuss mathematics and potential research collaboration possibilities with you via email. 
@@ -36,6 +36,7 @@ Submitted papers
 + Quantitative convergence guarantees for the mean-field dispersion process; Submitted, 2024; Fei Cao, Jincheng Yang.
 + Fractal opinions among interacting agents; Submitted, 2024; Fei Cao, Roberto Cortez.
 + The iterative persuasion-polarization opinion dynamics and its mean-field analysis; Submitted, 2024; Fei Cao, Stephanie Reed.
++ From Gini index as a Lyapunov functional to convergence in Wasserstein distance; Submitted, 2025; Fei Cao.
 
 Teaching
 ======
