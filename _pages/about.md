@@ -47,7 +47,7 @@ Teaching
 
 Miscellaneous
 ======
-+ **Visiting Scholar** in the Department of Mathematics at the Pennsylvania State University (02/13/2025 - 02/24/2022), hosted by Professor Pierre-Emmanuel Jabin.
++ **Visiting Scholar** in the Department of Mathematics at the Pennsylvania State University (02/13/2025 - 02/24/2025), hosted by Professor Pierre-Emmanuel Jabin.
 + **Visiting Scholar** in the in the School of Mathematical and Statistical Sciences at Arizona State University (11/06/2023 - 11/10/2023), hosted by Associate Professor Sebastien Motsch.
 + **Visiting Scholar** in the Department of Mathematics at the Pennsylvania State University (02/02/2022 - 02/18/2022), hosted by Professor Pierre-Emmanuel Jabin.
 + **REU mentor** during summer 2023, the undergraduate mentee Minh Le is guided to work on gradient descent and related optimization algorithms.
