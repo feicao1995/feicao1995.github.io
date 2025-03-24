@@ -24,9 +24,9 @@ Publications
 + Derivation of wealth distributions from biased exchange of money; Kinetic and Related Models, 16(5):764-794, 2023; Fei Cao, Sebastien Motsch.
 + Entropy dissipation and propagation of chaos for the uniform reshuffling model; Mathematical Models and Methods in Applied Sciences 33(04):829-875, 2023; Fei Cao, Pierre-Emmanuel Jabin, Sebastien Motsch.
 + Uncovering a two-phase dynamics from a dollar exchange model with bank and debt; SIAM Journal on Applied Mathematics, 83(5):1872-1891, 2023; Fei Cao, Sebastien Motsch.
-+ Uniform propagation of chaos for a dollar exchange econophysics model; European Journal of Applied Mathematics, 1-13, 2024; Fei Cao, Roberto Cortez.
 + From the binomial reshuffling model to Poisson distribution of money; Networks and Heterogeneous Media, 19(1):24-43, 2024; Fei Cao, Nicholas F. Marshall.
 + From interacting agents to Boltzmann-Gibbs distribution of money; Nonlinearity, 37(12):125020, 2024; Fei Cao, Pierre-Emmanuel Jabin.
++ Uniform propagation of chaos for a dollar exchange econophysics model; European Journal of Applied Mathematics, 36(1):27-39, 2025; Fei Cao, Roberto Cortez.
 + Fractal opinions among interacting agents; to appear on SIAM Journal on Applied Dynamical Systems, 2025; Fei Cao, Roberto Cortez.
 + A biased dollar exchange model involving bank and debt with discontinuous equilibrium; Mathematical Modelling of Natural Phenomena, 20:5, 2025; Fei Cao, Stephanie Reed.
 
