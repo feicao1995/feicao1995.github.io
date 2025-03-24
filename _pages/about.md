@@ -28,7 +28,7 @@ Publications
 + From the binomial reshuffling model to Poisson distribution of money; Networks and Heterogeneous Media, 19(1):24-43, 2024; Fei Cao, Nicholas F. Marshall.
 + From interacting agents to Boltzmann-Gibbs distribution of money; Nonlinearity, 37(12):125020, 2024; Fei Cao, Pierre-Emmanuel Jabin.
 + Fractal opinions among interacting agents; to appear on SIAM Journal on Applied Dynamical Systems, 2025; Fei Cao, Roberto Cortez.
-+ A biased dollar exchange model involving bank and debt with discontinuous equilibrium; to appear on Mathematical Modelling of Natural Phenomena, 2025; Fei Cao, Stephanie Reed.
++ A biased dollar exchange model involving bank and debt with discontinuous equilibrium; Mathematical Modelling of Natural Phenomena, 20:5, 2025; Fei Cao, Stephanie Reed.
 
 Submitted papers
 ======
