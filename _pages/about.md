@@ -29,11 +29,11 @@ Publications
 + Uniform propagation of chaos for a dollar exchange econophysics model; European Journal of Applied Mathematics, 36(1):27-39, 2025; Fei Cao, Roberto Cortez.
 + Fractal opinions among interacting agents; to appear on SIAM Journal on Applied Dynamical Systems, 2025; Fei Cao, Roberto Cortez.
 + A biased dollar exchange model involving bank and debt with discontinuous equilibrium; Mathematical Modelling of Natural Phenomena, 20:5, 2025; Fei Cao, Stephanie Reed.
++ Sticky dispersion on the complete graph: a kinetic approach; to appear on SIAM Journal on Mathematical Analysis, 2025; Fei Cao, Sebastien Motsch.
 
 Submitted papers
 ======
-+ On the equivalence between Fourier-based and Wasserstein distances for probability measures on N; Submitted, 2024; Fei Cao, Xiaoqian Gong.
-+ Sticky dispersion on the complete graph: a kinetic approach; Submitted, 2024; Fei Cao, Sebastien Motsch.
++ On the equivalence between Fourier-based and Wasserstein distances for probability measures on N; Submitted, 2025; Fei Cao, Xiaoqian Gong.
 + Quantitative convergence guarantees for the mean-field dispersion process; Submitted, 2024; Fei Cao, Jincheng Yang.
 + The iterative persuasion-polarization opinion dynamics and its mean-field analysis; Submitted, 2024; Fei Cao, Stephanie Reed.
 + From Gini index as a Lyapunov functional to convergence in Wasserstein distance; Submitted, 2025; Fei Cao.
