@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently an **Visiting Assistant Professor** at the University of Massachusetts Amherst. I am now on the job market and **I am actively looking for a tenure-track position (in applied mathematics and/or related areas) starting at Fall 2025**.
+Currently an **Visiting Assistant Professor** at the University of Massachusetts Amherst. I am now on the job market and **I am actively looking for a tenure-track position (in applied mathematics and/or related areas) starting at Fall 2025 or Spring 2026**.
 Hobbies: Naruto/Boruto, Detective Conan, NBA, Yu-Gi-Oh! (a trading card game, I am a semi-professional Yu-Gi-Oh! player by the way), etc. 
 Email: fcao@umass.edu. 
 I am glad to discuss mathematics and potential research collaboration possibilities with you via email. 
@@ -30,12 +30,12 @@ Publications
 + Fractal opinions among interacting agents; to appear on SIAM Journal on Applied Dynamical Systems, 2025; Fei Cao, Roberto Cortez.
 + A biased dollar exchange model involving bank and debt with discontinuous equilibrium; Mathematical Modelling of Natural Phenomena, 20:5, 2025; Fei Cao, Stephanie Reed.
 + Sticky dispersion on the complete graph: a kinetic approach; to appear on SIAM Journal on Mathematical Analysis, 2025; Fei Cao, Sebastien Motsch.
++ The iterative persuasion-polarization opinion dynamics and its mean-field analysis; to appear on SIAM Journal on Applied Mathematics, 2025; Fei Cao, Stephanie Reed.
++ Quantitative convergence guarantees for the mean-field dispersion process; to appear on Discrete and Continuous Dynamical Systems, 2025; Fei Cao, Jincheng Yang.
 
 Submitted papers
 ======
 + On the equivalence between Fourier-based and Wasserstein distances for probability measures on N; Submitted, 2025; Fei Cao, Xiaoqian Gong.
-+ Quantitative convergence guarantees for the mean-field dispersion process; Submitted, 2024; Fei Cao, Jincheng Yang.
-+ The iterative persuasion-polarization opinion dynamics and its mean-field analysis; Submitted, 2024; Fei Cao, Stephanie Reed.
 + From Gini index as a Lyapunov functional to convergence in Wasserstein distance; Submitted, 2025; Fei Cao.
 + Generative diffusion models from a PDE perspective; Submitted, 2025; Fei Cao, Kimball Johnston, Thomas Laurent, Justin Le, Sebastien Motsch.
 
