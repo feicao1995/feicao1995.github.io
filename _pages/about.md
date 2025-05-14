@@ -19,7 +19,7 @@ My CV can be found at [here](https://feicao1995.github.io/files/CV_FeiCao.pdf). 
 Publications 
 ======
 + Asymptotic flocking for the three-zone model; Mathematical Biosciences and Engineering, 17(6):7692-7707, 2020; Fei Cao, Sebastien Motsch, Alexander Reamy, Ryan Theisen.
-+ K-averaging agent-based model: propagation of chaos and convergence to equilibrium; Journal of Statistical Physics, 184(2):1-19, 2021; Fei Cao.
++ K-averaging agent-based model: propagation of chaos and convergence to equilibrium; Journal of Statistical Physics, 184(2):18, 2021; Fei Cao.
 + Explicit decay rate for the Gini index in the repeated averaging model; Mathematical Methods in the Applied Sciences, 46(4):3583-3596, 2023; Fei Cao.
 + Derivation of wealth distributions from biased exchange of money; Kinetic and Related Models, 16(5):764-794, 2023; Fei Cao, Sebastien Motsch.
 + Entropy dissipation and propagation of chaos for the uniform reshuffling model; Mathematical Models and Methods in Applied Sciences 33(04):829-875, 2023; Fei Cao, Pierre-Emmanuel Jabin, Sebastien Motsch.
