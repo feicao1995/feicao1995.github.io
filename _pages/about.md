@@ -37,7 +37,7 @@ Submitted papers
 ======
 + On the equivalence between Fourier-based and Wasserstein distances for probability measures on N; Submitted, 2025; Fei Cao, Xiaoqian Gong.
 + From Gini index as a Lyapunov functional to convergence in Wasserstein distance; Submitted, 2025; Fei Cao.
-+ Mean-field analysis of a random asset exchange model with probabilistic cheaters, 2025; Fei Cao.
++ Mean-field analysis of a random asset exchange model with probabilistic cheaters; Submitted, 2025; Fei Cao.
 + Generative diffusion models from a PDE perspective; Submitted, 2025; Fei Cao, Kimball Johnston, Thomas Laurent, Justin Le, Sebastien Motsch.
 
 Teaching
