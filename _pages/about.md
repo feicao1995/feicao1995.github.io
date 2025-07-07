@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently an **Visiting Assistant Professor** at the University of Massachusetts Amherst. I am now on the job market and **I am actively looking for a tenure-track position (in applied mathematics and/or related areas) starting at Fall 2025 or Spring 2026**.
+Currently an **Visiting Assistant Professor** at the University of Massachusetts Amherst (until August 2025). I am now on the job market and **I am actively looking for a tenure-track position (in applied mathematics and/or related areas) starting at Fall 2025 or Spring 2026 or Fall 2026**.
 I obtained my Ph.D in Applied Mathematics from Arizona State University in May 2022, and my Ph.D advisor is [Sebastien Motsch](https://scholar.google.com/citations?user=OY7cVvgAAAAJ&hl=en). My hobbies include but not limited to: Naruto/Boruto, Detective Conan, NBA, Yu-Gi-Oh! 
-(a trading card game, I am a semi-professional Yu-Gi-Oh! player by the way), etc. My current Email address: fcao@umass.edu. 
+(a trading card game, I am a semi-professional Yu-Gi-Oh! player by the way), etc. My current Email address: feicaomath@outlook.com. 
 I am glad to discuss mathematics and potential research collaboration possibilities with you via email. 
 I am interested in partial differential equations, stochastic processes, interacting particle systems, and theoretical machine learning. 
 My CV can be found at [here](https://feicao1995.github.io/files/CV_FeiCao.pdf). Please always refer to my Google Scholar or Curriculum Vitae for my up-to-date publications and pre-prints.
