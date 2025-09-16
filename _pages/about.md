@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently an **Postdoctotal Research Associate** at the Amherst College (until August 2026). I am now on the job market and **I am actively looking for a tenure-track position (in applied mathematics and/or related areas) starting at Spring 2026 or Fall 2026**.
+Currently an **Visiting Researcher in Applied Mathematics** at Amherst College (until July 2026). I am now on the job market and **I am actively looking for a tenure-track position (in applied mathematics and/or related areas) starting at Spring 2026 or Fall 2026**.
 I obtained my Ph.D in Applied Mathematics from Arizona State University in May 2022, and my Ph.D advisor is [Sebastien Motsch](https://scholar.google.com/citations?user=OY7cVvgAAAAJ&hl=en). From September 2022 to August 2025, I was an Visiting Assistant Professor
 in the Department of Mathematics and Statistics at the University of Massachusetts Amherst. My hobbies include but not limited to: Naruto/Boruto, Detective Conan, NBA, Yu-Gi-Oh! 
 (a trading card game, I am a die-hard Yu-Gi-Oh! player by the way, please feel free to reeach out to me if you are interested in scheduling some online YuGiOh! duels in the Dueling Nexus platform), etc. My current Email address: feicaomath@outlook.com. 
@@ -49,7 +49,7 @@ Teaching
 
 Miscellaneous
 ======
-+ **2025 AMS-Simons Travel Grant**: Offered 2025 AMS-Simons Travel Grant (but unable to accept the grant due to relocation outside the U.S.).
++ **2025 AMS-Simons Travel Grant** awarded by the American Mathematical Society during Summer 2025.
 + **Visiting Scholar** in the Department of Mathematics at the Pennsylvania State University (02/13/2025 - 02/24/2025), hosted by Professor Pierre-Emmanuel Jabin.
 + **Visiting Scholar** in the in the School of Mathematical and Statistical Sciences at Arizona State University (11/06/2023 - 11/10/2023), hosted by Associate Professor Sebastien Motsch.
 + **Visiting Scholar** in the Department of Mathematics at the Pennsylvania State University (02/02/2022 - 02/18/2022), hosted by Professor Pierre-Emmanuel Jabin.
