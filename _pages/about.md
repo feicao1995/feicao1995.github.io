@@ -39,7 +39,7 @@ Submitted papers
 + From Gini index as a Lyapunov functional to convergence in Wasserstein distance; Submitted, 2025; Fei Cao.
 + Mean-field analysis of a random asset exchange model with probabilistic cheaters; Submitted, 2025; Fei Cao.
 + Generative diffusion models from a PDE perspective; Submitted, 2025; Fei Cao, Kimball Johnston, Thomas Laurent, Justin Le, Sebastien Motsch.
-+ The Bennati–Dragulescu–Yakovenko model in the continuous setting: PDE formulation and long-time behavior; Submitted, 2025; Fei Cao, Nadia Loy.
++ The Bennati–Dragulescu–Yakovenko model in the continuous setting: PDE derivation and long-time behavior; Submitted, 2025; Fei Cao, Nadia Loy.
 + The fractal geometry of opinion formation; Submitted, 2026; Fei Cao, Roberto Cortez.
 
 Teaching
