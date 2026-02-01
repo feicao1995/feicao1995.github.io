@@ -18,15 +18,15 @@ My CV can be found at [here](https://feicao1995.github.io/files/CV_FeiCao.pdf). 
 
 Publications 
 ======
-+ Asymptotic flocking for the three-zone model; Mathematical Biosciences and Engineering, 17(6):7692-7707, 2020; Fei Cao, Sebastien Motsch, Alexander Reamy, Ryan Theisen.
++ Asymptotic flocking for the three-zone model; Mathematical Biosciences and Engineering, 17(6):7692--7707, 2020; Fei Cao, Sebastien Motsch, Alexander Reamy, Ryan Theisen.
 + K-averaging agent-based model: propagation of chaos and convergence to equilibrium; Journal of Statistical Physics, 184(2):18, 2021; Fei Cao.
-+ Explicit decay rate for the Gini index in the repeated averaging model; Mathematical Methods in the Applied Sciences, 46(4):3583-3596, 2023; Fei Cao.
-+ Derivation of wealth distributions from biased exchange of money; Kinetic and Related Models, 16(5):764-794, 2023; Fei Cao, Sebastien Motsch.
-+ Entropy dissipation and propagation of chaos for the uniform reshuffling model; Mathematical Models and Methods in Applied Sciences 33(04):829-875, 2023; Fei Cao, Pierre-Emmanuel Jabin, Sebastien Motsch.
-+ Uncovering a two-phase dynamics from a dollar exchange model with bank and debt; SIAM Journal on Applied Mathematics, 83(5):1872-1891, 2023; Fei Cao, Sebastien Motsch.
-+ From the binomial reshuffling model to Poisson distribution of money; Networks and Heterogeneous Media, 19(1):24-43, 2024; Fei Cao, Nicholas F. Marshall.
++ Explicit decay rate for the Gini index in the repeated averaging model; Mathematical Methods in the Applied Sciences, 46(4):3583--3596, 2023; Fei Cao.
++ Derivation of wealth distributions from biased exchange of money; Kinetic and Related Models, 16(5):764--794, 2023; Fei Cao, Sebastien Motsch.
++ Entropy dissipation and propagation of chaos for the uniform reshuffling model; Mathematical Models and Methods in Applied Sciences, 33(04):829--875, 2023; Fei Cao, Pierre-Emmanuel Jabin, Sebastien Motsch.
++ Uncovering a two-phase dynamics from a dollar exchange model with bank and debt; SIAM Journal on Applied Mathematics, 83(5):1872--1891, 2023; Fei Cao, Sebastien Motsch.
++ From the binomial reshuffling model to Poisson distribution of money; Networks and Heterogeneous Media, 19(1):24--43, 2024; Fei Cao, Nicholas F. Marshall.
 + From interacting agents to Boltzmann-Gibbs distribution of money; Nonlinearity, 37(12):125020, 2024; Fei Cao, Pierre-Emmanuel Jabin.
-+ Uniform propagation of chaos for a dollar exchange econophysics model; European Journal of Applied Mathematics, 36(1):27-39, 2025; Fei Cao, Roberto Cortez.
++ Uniform propagation of chaos for a dollar exchange econophysics model; European Journal of Applied Mathematics, 36(1):27--39, 2025; Fei Cao, Roberto Cortez.
 + Fractal opinions among interacting agents; SIAM Journal on Applied Dynamical Systems, 24(2):1529-1552, 2025; Fei Cao, Roberto Cortez.
 + A biased dollar exchange model involving bank and debt with discontinuous equilibrium; Mathematical Modelling of Natural Phenomena, 20:5, 2025; Fei Cao, Stephanie Reed.
 + Sticky dispersion on the complete graph: a kinetic approach; SIAM Journal on Mathematical Analysis, 57(4):3953-3980, 2025; Fei Cao, Sebastien Motsch.
@@ -41,6 +41,7 @@ Submitted papers
 + Generative diffusion models from a PDE perspective; Submitted, 2025; Fei Cao, Kimball Johnston, Thomas Laurent, Justin Le, Sebastien Motsch.
 + The Bennati–Dragulescu–Yakovenko model in the continuous setting: PDE derivation and long-time behavior; Submitted, 2025; Fei Cao, Nadia Loy.
 + The fractal geometry of opinion formation; Submitted, 2026; Fei Cao, Roberto Cortez.
++ Wealth exchange under ceiling and flooring constraints: a modified Bennati–Dragulescu–Yakovenko model; Submitted, 2026; Fei Cao, Sebastien Motsch, Wendy Garcia Umbarita.
 
 Teaching
 ======
