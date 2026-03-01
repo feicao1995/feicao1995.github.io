@@ -53,6 +53,7 @@ Teaching
 
 Miscellaneous
 ======
++ My Visiting Researcher position (from 11/01/2025 to 07/31/2026) at Amherst College is fully supported by the **National Science Foundation** through **Grant DMS-2418971** (PI: Dr. Xiaoqian Gong)
 + **2025 AMS-Simons Travel Grant** awarded by the American Mathematical Society during Summer 2025.
 + **Visiting Scholar** in the Department of Mathematics at the Pennsylvania State University (02/13/2025 - 02/24/2025), hosted by Professor Pierre-Emmanuel Jabin.
 + **Visiting Scholar** in the in the School of Mathematical and Statistical Sciences at Arizona State University (11/06/2023 - 11/10/2023), hosted by Associate Professor Sebastien Motsch.
