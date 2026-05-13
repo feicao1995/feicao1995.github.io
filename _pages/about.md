@@ -54,10 +54,11 @@ Teaching
 
 Miscellaneous
 ======
++ **Visiting Scholar** in the in the School of Mathematical and Statistical Sciences at Arizona State University (05/13/2026 - 05/19/2026), hosted by Professor Sebastien Motsch.
 + My Visiting Researcher position (from 11/01/2025 to 07/31/2026) at Amherst College is fully supported by the **National Science Foundation** through **Grant DMS-2418971** (PI: Dr. Xiaoqian Gong)
 + **2025 AMS-Simons Travel Grant** awarded by the American Mathematical Society during Summer 2025.
 + **Visiting Scholar** in the Department of Mathematics at the Pennsylvania State University (02/13/2025 - 02/24/2025), hosted by Professor Pierre-Emmanuel Jabin.
-+ **Visiting Scholar** in the in the School of Mathematical and Statistical Sciences at Arizona State University (11/06/2023 - 11/10/2023), hosted by Associate Professor Sebastien Motsch.
++ **Visiting Scholar** in the in the School of Mathematical and Statistical Sciences at Arizona State University (11/06/2023 - 11/10/2023), hosted by Professor Sebastien Motsch.
 + **Visiting Scholar** in the Department of Mathematics at the Pennsylvania State University (02/02/2022 - 02/18/2022), hosted by Professor Pierre-Emmanuel Jabin.
 + **REU mentor** during summer 2023, the undergraduate mentee Minh Le is guided to work on gradient descent and related optimization algorithms.
 + **Graduate Student Research Award** (2022) awarded by School of Mathematical and Statistical Sciences at Arizona State University.
