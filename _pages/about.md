@@ -32,6 +32,7 @@ Publications
 + Sticky dispersion on the complete graph: a kinetic approach; SIAM Journal on Mathematical Analysis, 57(4):3953-3980, 2025; Fei Cao, Sebastien Motsch.
 + The iterative persuasion-polarization opinion dynamics and its mean-field analysis; SIAM Journal on Applied Mathematics, 85(4):1596--1620, 2025; Fei Cao, Stephanie Reed.
 + Quantitative convergence guarantees for the mean-field dispersion process; Discrete and Continuous Dynamical Systems, 47:487--518, 2026; Fei Cao, Jincheng Yang.
++ Mean-field analysis of a random asset exchange model with probabilistic cheaters; SIAM Journal on Applied Mathematics, 86(3):945--960, 2026; Fei Cao.
 
 Submitted papers
 ======
