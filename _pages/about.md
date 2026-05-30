@@ -36,7 +36,6 @@ Publications
 
 Submitted papers
 ======
-+ On the equivalence between Fourier-based and Wasserstein distances for probability measures on N; Submitted, 2025; Fei Cao, Xiaoqian Gong.
 + From Gini index as a Lyapunov functional to convergence in Wasserstein distance; Submitted, 2025; Fei Cao.
 + Mean-field analysis of a random asset exchange model with probabilistic cheaters; Submitted, 2025; Fei Cao.
 + Generative diffusion models from a PDE perspective; Submitted, 2025; Fei Cao, Kimball Johnston, Thomas Laurent, Justin Le, Sebastien Motsch.
@@ -45,6 +44,7 @@ Submitted papers
 + Wealth exchange under ceiling and flooring constraints: a modified Bennati–Dragulescu–Yakovenko model; Submitted, 2026; Fei Cao, Sebastien Motsch, Wendy Garcia Umbarita.
 + Analysis for the large-time behavior of the "Bando-follow-the-leader" car-following model; Submitted, 2026; Fei Cao, Xiaoqian Gong, Alexander Keimer.
 + Relocation without preference: A destination-agnostic Schelling-type metapopulation model; Submitted, 2026; Fei Cao, Roberto Cortez.
++ The incremental voter model: mean-field analysis and convergence to equilibrium; Submitted, 2026; Fei Cao, Xiaoqian Gong.
 
 Teaching
 ======
