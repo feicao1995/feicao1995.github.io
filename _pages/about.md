@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently a **Visiting Researcher in Applied Mathematics** at Amherst College (until July 2026). I am now on the job market and **I am actively looking for a tenure-track position (in applied mathematics and/or related areas) starting at Fall 2026**.
+Incoming **Assistant Professor of Mathematics** at King Fahd University of Petroleum and Minerals (starting from August 2026).
 I obtained my Ph.D in Applied Mathematics from Arizona State University in May 2022, and my Ph.D advisor is [Sebastien Motsch](https://scholar.google.com/citations?user=OY7cVvgAAAAJ&hl=en). From September 2022 to August 2025, I was an Visiting Assistant Professor
-in the Department of Mathematics and Statistics at the University of Massachusetts Amherst. My hobbies include but not limited to: Naruto/Boruto, Detective Conan, NBA, Yu-Gi-Oh! 
+in the Department of Mathematics and Statistics at the University of Massachusetts Amherst. From November 2025 to July 2026, I was an Visiting Researcher in the Department of Mathematics at Amherst College. My hobbies include but not limited to: Naruto/Boruto, Detective Conan, NBA, Yu-Gi-Oh! 
 (a trading card game, I am a die-hard Yu-Gi-Oh! player by the way, please feel free to reach out to me if you are interested in scheduling some online YuGiOh! duels in the Dueling Nexus platform), etc. My current Email address: fcao@amherst.edu. 
 I am glad to discuss mathematics and potential research collaboration possibilities with you via email. 
 I am interested in partial differential equations, stochastic processes, interacting particle systems, and theoretical machine learning. 
