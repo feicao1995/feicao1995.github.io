@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Incoming **Assistant Professor of Mathematics** at King Fahd University of Petroleum and Minerals (starting from August 2026).
+**Assistant Professor of Mathematics** at King Fahd University of Petroleum and Minerals (KFUPM).
 I obtained my Ph.D in Applied Mathematics from Arizona State University in May 2022, and my Ph.D advisor is [Sebastien Motsch](https://scholar.google.com/citations?user=OY7cVvgAAAAJ&hl=en). From September 2022 to August 2025, I was an Visiting Assistant Professor
 in the Department of Mathematics and Statistics at the University of Massachusetts Amherst. From November 2025 to July 2026, I was an Visiting Researcher in the Department of Mathematics at Amherst College. My hobbies include but not limited to: Naruto/Boruto, Detective Conan, NBA, Yu-Gi-Oh! 
-(a trading card game, I am a die-hard Yu-Gi-Oh! player by the way, please feel free to reach out to me if you are interested in scheduling some online YuGiOh! duels in the Dueling Nexus platform), etc. My current Email address: fcao@amherst.edu. 
+(a trading card game, I am a die-hard Yu-Gi-Oh! player by the way, please feel free to reach out to me if you are interested in scheduling some online YuGiOh! duels in the Dueling Nexus platform), etc. My current Email address: fei.cao@kfupm.edu.sa 
 I am glad to discuss mathematics and potential research collaboration possibilities with you via email. 
 I am interested in partial differential equations, stochastic processes, interacting particle systems, and theoretical machine learning. 
 My CV can be found at [here](https://feicao1995.github.io/files/CV_FeiCao.pdf). Please always refer to my Google Scholar or Curriculum Vitae for my up-to-date publications and pre-prints.
@@ -51,6 +51,7 @@ Teaching
 + MATH 132 Calculus II (Fall 2022,2024 and Spring 2023) at University of Massachusetts Amherst
 + MATH 331 Ordinary Differential Equations (Fall 2023 and Spring 2024,2025) at University of Massachusetts Amherst
 + MATH 131 Calculus I (Fall 2024) at University of Massachusetts Amherst
++ MATH 208 Differential Equations and Linear Algebra (Fall 2026) at King Fahd University of Petroleum and Minerals
 
 Miscellaneous
 ======
