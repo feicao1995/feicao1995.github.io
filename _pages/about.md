@@ -33,10 +33,10 @@ Publications
 + The iterative persuasion-polarization opinion dynamics and its mean-field analysis; SIAM Journal on Applied Mathematics, 85(4):1596--1620, 2025; Fei Cao, Stephanie Reed.
 + Quantitative convergence guarantees for the mean-field dispersion process; Discrete and Continuous Dynamical Systems, 47:487--518, 2026; Fei Cao, Jincheng Yang.
 + Mean-field analysis of a random asset exchange model with probabilistic cheaters; SIAM Journal on Applied Mathematics, 86(3):945--960, 2026; Fei Cao.
++ From Gini index as a Lyapunov functional to convergence in Wasserstein distance; Statistics & Probability Letters, 242(111001), 2027; Fei Cao.
 
 Submitted papers
 ======
-+ From Gini index as a Lyapunov functional to convergence in Wasserstein distance; Submitted, 2025; Fei Cao.
 + Generative diffusion models from a PDE perspective; Submitted, 2025; Fei Cao, Kimball Johnston, Thomas Laurent, Justin Le, Sebastien Motsch.
 + The Bennati–Dragulescu–Yakovenko model in the continuous setting: PDE derivation and long-time behavior; Submitted, 2025; Fei Cao, Nadia Loy.
 + The fractal geometry of opinion formation; Submitted, 2026; Fei Cao, Roberto Cortez.
